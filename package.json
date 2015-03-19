@@ -1,0 +1,17 @@
+{
+  "name": "embassies-list-of-russia",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=0.10.35"
+  },
+  "private": false,
+  "scripts": {
+    "test": ""
+  },
+  "devDependencies": {
+    "cheerio": "^0.18.0",
+    "request": "^2.53.0",
+    "sanitize-html": "^1.6.1",
+    "validator": "^3.34.0"
+  }
+}

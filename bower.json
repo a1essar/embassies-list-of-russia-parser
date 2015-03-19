@@ -1,0 +1,9 @@
+{
+  "name": "embassies-list-of-russia",
+  "version": "0.0.1",
+  "devDependencies": {
+    "reqwest": "~1.1.5",
+    "qwery": "~4.0.0",
+    "bonzo": "~2.0.0"
+  }
+}
