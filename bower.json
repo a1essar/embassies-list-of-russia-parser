@@ -1,5 +1,5 @@
 {
-  "name": "embassies-list-of-russia",
+  "name": "embassies-list-of-russia-parser",
   "version": "0.0.1",
   "devDependencies": {
     "reqwest": "~1.1.5",
